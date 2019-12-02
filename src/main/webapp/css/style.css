@@ -1,0 +1,57 @@
+.messageInfo {
+	font-style: italic;
+	text-align: center;
+}
+
+.bouton {
+	padding: 10px 15px 10px 15px !important;
+}
+
+.bouton a {
+	color: black;
+}
+
+.img {
+	with: 150px;
+	height: 150px;
+	text-align: center;
+}
+
+.zsx {
+	background-color: #b3b3b3;
+	padding: 20px;
+	margin-bottom: 50px;
+}
+
+.red {
+	color: red;
+		margin-bottom: 30px;
+}
+
+.zsx h1, .zsx h3{
+text-align:center;
+color:#fff;
+}
+
+.zsx h1{
+font-size:70px;
+font-family:'Comic Sans MS', serif;
+font-weight:bold;
+text-transform:inherit;
+margin: 0px auto 0px;
+text-shadow: 2px 2px 2px #000;
+-webkit-text-shadow: 2px 2px 2px #000;
+-moz-text-shadow: 2px 2px 2px #000;
+margin-bottom: 20px;
+}
+
+.zsx h3{
+font-size: 25px;
+font-weight:lighter;
+margin: 0px auto 15px;
+}
+
+td {
+	padding-top: -20px;
+	padding-bottom: -20px;
+}
